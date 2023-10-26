@@ -1,0 +1,14 @@
+C:\Users\thang\Desktop\Hoc tap\1649\ASM21651\ASM21651\bin\Debug\net6.0\ASM21651.exe
+C:\Users\thang\Desktop\Hoc tap\1649\ASM21651\ASM21651\bin\Debug\net6.0\ASM21651.deps.json
+C:\Users\thang\Desktop\Hoc tap\1649\ASM21651\ASM21651\bin\Debug\net6.0\ASM21651.runtimeconfig.json
+C:\Users\thang\Desktop\Hoc tap\1649\ASM21651\ASM21651\bin\Debug\net6.0\ASM21651.dll
+C:\Users\thang\Desktop\Hoc tap\1649\ASM21651\ASM21651\bin\Debug\net6.0\ASM21651.pdb
+C:\Users\thang\Desktop\Hoc tap\1649\ASM21651\ASM21651\obj\Debug\net6.0\ASM21651.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thang\Desktop\Hoc tap\1649\ASM21651\ASM21651\obj\Debug\net6.0\ASM21651.AssemblyInfoInputs.cache
+C:\Users\thang\Desktop\Hoc tap\1649\ASM21651\ASM21651\obj\Debug\net6.0\ASM21651.AssemblyInfo.cs
+C:\Users\thang\Desktop\Hoc tap\1649\ASM21651\ASM21651\obj\Debug\net6.0\ASM21651.csproj.CoreCompileInputs.cache
+C:\Users\thang\Desktop\Hoc tap\1649\ASM21651\ASM21651\obj\Debug\net6.0\ASM21651.dll
+C:\Users\thang\Desktop\Hoc tap\1649\ASM21651\ASM21651\obj\Debug\net6.0\refint\ASM21651.dll
+C:\Users\thang\Desktop\Hoc tap\1649\ASM21651\ASM21651\obj\Debug\net6.0\ASM21651.pdb
+C:\Users\thang\Desktop\Hoc tap\1649\ASM21651\ASM21651\obj\Debug\net6.0\ASM21651.genruntimeconfig.cache
+C:\Users\thang\Desktop\Hoc tap\1649\ASM21651\ASM21651\obj\Debug\net6.0\ref\ASM21651.dll
